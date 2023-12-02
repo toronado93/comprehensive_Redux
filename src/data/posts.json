@@ -1,0 +1,148 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "The Art of Programming",
+      "author": "John Smith",
+      "content": "Programming is both science and art..."
+    },
+    {
+      "id": 2,
+      "title": "Exploring the Cosmos",
+      "author": "Jane Doe",
+      "content": "Journey through the vastness of space..."
+    },
+    {
+      "id": 3,
+      "title": "Cooking Adventures",
+      "author": "Chef Master",
+      "content": "Discover new recipes and cooking techniques..."
+    },
+    {
+      "id": 4,
+      "title": "Innovations in Technology",
+      "author": "Tech Enthusiast",
+      "content": "The latest breakthroughs in technology..."
+    },
+    {
+      "id": 5,
+      "title": "Travel Diaries",
+      "author": "Wanderlust Explorer",
+      "content": "Experiencing new cultures and landscapes..."
+    },
+    {
+      "id": 6,
+      "title": "Fitness Journey",
+      "author": "Fit Life Guru",
+      "content": "Tips for a healthy and active lifestyle..."
+    },
+    {
+      "id": 7,
+      "title": "Art and Creativity",
+      "author": "Creative Mind",
+      "content": "Expressing emotions through various forms of art..."
+    },
+    {
+      "id": 8,
+      "title": "Mindfulness and Meditation",
+      "author": "Zen Master",
+      "content": "Finding peace and balance in the present moment..."
+    },
+    {
+      "id": 9,
+      "title": "Book Reviews",
+      "author": "Bookworm Reader",
+      "content": "Dive into the world of literature..."
+    },
+    {
+      "id": 10,
+      "title": "Photography Passion",
+      "author": "Shutterbug Artist",
+      "content": "Capturing moments through the lens..."
+    },
+    {
+      "id": 11,
+      "title": "Science and Nature",
+      "author": "Nature Lover",
+      "content": "Exploring the wonders of the natural world..."
+    },
+    {
+      "id": 12,
+      "title": "Health and Wellness",
+      "author": "Wellness Advocate",
+      "content": "Tips for a healthy and balanced life..."
+    },
+    {
+      "id": 13,
+      "title": "Movie Buff Recommendations",
+      "author": "Cinephile Critic",
+      "content": "Must-watch movies and reviews..."
+    },
+    {
+      "id": 14,
+      "title": "Fashion Trends",
+      "author": "Style Icon",
+      "content": "Latest trends and fashion inspirations..."
+    },
+    {
+      "id": 15,
+      "title": "Financial Wisdom",
+      "author": "Money Matters Expert",
+      "content": "Smart financial planning and investment tips..."
+    },
+    {
+      "id": 16,
+      "title": "DIY Home Projects",
+      "author": "Home Improvement Guru",
+      "content": "Transforming spaces with creative DIY projects..."
+    },
+    {
+      "id": 17,
+      "title": "Historical Insights",
+      "author": "History Buff",
+      "content": "Journey through the pages of history..."
+    },
+    {
+      "id": 18,
+      "title": "Gaming Chronicles",
+      "author": "Gamer Pro",
+      "content": "Adventures in the world of video games..."
+    },
+    {
+      "id": 19,
+      "title": "Pet Care Tips",
+      "author": "John Smith",
+      "content": "Caring for your furry friends..."
+    },
+    {
+      "id": 20,
+      "title": "Educational Discoveries",
+      "author": "John Smith",
+      "content": "Learning and exploring new subjects..."
+    },
+    {
+      "id": 21,
+      "title": "a",
+      "content": "a",
+      "author": "Cinephile Critic"
+    },
+    {
+      "id": 22,
+      "title": "a",
+      "content": "a",
+      "author": "Chef Master"
+    },
+    {
+      "id": 23,
+      "title": "b",
+      "content": "b",
+      "author": "Shutterbug Artist"
+    },
+    {
+      "id": 24,
+      "title": "a",
+      "content": "a",
+      "author": "Creative Mind"
+    }
+  ]
+}
